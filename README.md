@@ -7,7 +7,7 @@ Tags:
   - Hash
 ---
 
-# 🚀 _Day 5. Union of Arrays with Duplicates_ 🧠
+# 🚀 _Day 46. Union of Arrays with Duplicates_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538)
 
